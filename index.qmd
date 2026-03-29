@@ -9,7 +9,7 @@ about:
       href: https://github.com/camino2phd
     - icon: linkedin 
       text: LinkedIn
-      href: www.linkedin.com/in/brissa-acevedo
+      href: https://linkedin.com/in/brissa-acevedo
     - icon: linktree
       text: LinkTree
       href: https://linktr.ee/Camino2PhD
