@@ -2,15 +2,22 @@
   {
     "objectID": "about.html",
     "href": "about.html",
-    "title": "About",
+    "title": "About Me",
     "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2"
+    "text": "I am a doctoral researcher in the dual-degree Carnegie Mellon Portugal Program in Engineering and Public Policy at Carnegie Mellon University and the Faculdade de Engenharia da Universidade do Porto. I hold a B.S. in Chemical Engineering from Texas A&M University-Kingsville.\nMy work sits at the intersection of infrastructure, equity, and public policy. I study how communities perceive justice in the context of large infrastructure projects, with a particular focus on public engagement, decision-making, and energy policy. My research explores how policy and project design can better reflect the needs, experiences, and perspectives of affected communities.\nThrough this work, I bring together technical training, policy analysis, and community-centered thinking. I am especially interested in questions that require both analytical rigor and social awareness: how complex systems affect people differently, how institutions build trust, and how decision processes can become more inclusive and equitable.\nAs a first-generation student, I care deeply about expanding opportunity, elevating underrepresented voices, and producing work that has relevance beyond academia. My path into research was shaped in part by the McNair Scholars Program, which introduced me to scholarship as a tool for both inquiry and impact.\nWhether through research, writing, or collaboration, I am motivated by work that helps organizations and institutions make better, more inclusive decisions. I’m especially interested in contributing to projects related to infrastructure, energy, policy, public engagement, and equity."
   },
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Personal Website",
+    "title": "Brissa Acevedo",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
+    "text": "PhD Candidate in Engineering and Public Policy\nCMU-Portugal | Dual degree Ph.D. program\n📍Carnegie Mellon University 🇺🇸 & Faculdade de Engenharia da Universidade do Porto 🇵🇹"
+  },
+  {
+    "objectID": "index.html#education",
+    "href": "index.html#education",
+    "title": "Brissa Acevedo",
+    "section": "Education",
+    "text": "Education\nMS, Engineering and Public Policy, Carnegie Mellon University | 2024\nBS, Chemical Engineering, Texas A&M University-Kingsville | 2023"
   }
 ]

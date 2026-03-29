@@ -1,11 +1,31 @@
 ---
-title: "Personal Website"
+title: "Brissa Acevedo"
+about:
+  template: jolla
+  image: images/hs2.png
+  links:
+    - icon: github
+      text: Github
+      href: https://github.com/camino2phd
+    - icon: linkedin 
+      text: LinkedIn
+      href: www.linkedin.com/in/brissa-acevedo
+    - icon: linktree
+      text: LinkTree
+      href: https://linktr.ee/Camino2PhD
+    - icon: substack
+      text: Substack
+      href: https://tr.ee/Ps9I_0sf-m
 ---
 
-This is a Quarto website.
+*PhD Candidate in Engineering and Public Policy*
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+CMU-Portugal | Dual degree Ph.D. program
 
-```{r}
-1 + 1
-```
+📍Carnegie Mellon University 🇺🇸 & Faculdade de Engenharia da Universidade do Porto 🇵🇹
+
+## Education
+
+MS, Engineering and Public Policy,  Carnegie Mellon University | 2024
+
+BS, Chemical Engineering, Texas A&M University-Kingsville | 2023
