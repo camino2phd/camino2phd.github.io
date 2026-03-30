@@ -7,8 +7,10 @@ website:
   navbar:
     left:
       - href: index.qmd
-        text: Home
+        text: " "
+        icon: house-door-fill
       - href: aboutme.qmd
+      - href: Camino2PhD.qmd
       
 format:
   html:

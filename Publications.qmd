@@ -1,0 +1,26 @@
+---
+title: "Publications"
+format: html
+---
+## Selected Work
+
+**Brissa Acevedo**, Baruch Fischhoff, and Lia Patrício. *Community preferences in energy justice: Perspectives on solar farm projects.* Accepted for publication in **Energy Research & Social Science**.
+
+
+
+## Policy Briefs
+::: {.callout-note}
+
+### Do Renewables Really Raise Electricity Prices? What the Data Shows
+Policy breif examining the relationship between renewable energy adoption and electricity prices using 25 years of U.S. data (2000-2024). Analysis finds no consistent correlation between renewable generation and price increases, challenging common assumptions about renewable energy costs.
+
+[Read the article](https://ace-usa.org/blog/research/research-environmental-policy/do-renewables-really-raise-electricity-prices-what-the-data-shows/){target="_blank"}
+:::
+
+::: {.callout-note}
+### LIHEAP at a Crossroads: What's Next for Federal Energy Assistance to Low-Income Households?
+
+Policy brief examining the debate over LIHEAP (Low Income Home Energy Assistance Program) and the federal government's role in helping low-income households pay energy bills. Explores arguments on both sides and what's at stake.
+
+[Read the article](https://ace-usa.org/blog/research/research-environmental-policy/liheap-at-a-crossroads-whats-next-for-federal-energy-assistance-to-low-income-households/){target="_blank"}
+:::

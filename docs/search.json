@@ -1,24 +1,24 @@
 [
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Brissa Acevedo",
+    "objectID": "Publications.html",
+    "href": "Publications.html",
+    "title": "Publications",
     "section": "",
-    "text": "PhD Candidate in Engineering and Public Policy\nCMU-Portugal | Dual degree Ph.D. program\n📍Carnegie Mellon University 🇺🇸 & Faculdade de Engenharia da Universidade do Porto 🇵🇹"
+    "text": "Brissa Acevedo, Baruch Fischhoff, and Lia Patrício. Community preferences in energy justice: Perspectives on solar farm projects. Accepted for publication in Energy Research & Social Science."
   },
   {
-    "objectID": "index.html#education",
-    "href": "index.html#education",
-    "title": "Brissa Acevedo",
-    "section": "Education",
-    "text": "Education\nMS, Engineering and Public Policy, Carnegie Mellon University | 2024\nBS, Chemical Engineering, Texas A&M University-Kingsville | 2023"
+    "objectID": "Publications.html#selected-work",
+    "href": "Publications.html#selected-work",
+    "title": "Publications",
+    "section": "",
+    "text": "Brissa Acevedo, Baruch Fischhoff, and Lia Patrício. Community preferences in energy justice: Perspectives on solar farm projects. Accepted for publication in Energy Research & Social Science."
   },
   {
-    "objectID": "aboutme.html",
-    "href": "aboutme.html",
-    "title": "About Me",
-    "section": "",
-    "text": "I am a doctoral researcher in the dual-degree Carnegie Mellon Portugal Program in Engineering and Public Policy at Carnegie Mellon University and the Faculdade de Engenharia da Universidade do Porto. I hold a B.S. in Chemical Engineering from Texas A&M University-Kingsville.\nMy work sits at the intersection of infrastructure, equity, and public policy. I study how communities perceive justice in the context of large infrastructure projects, with a particular focus on public engagement, decision-making, and energy policy. My research explores how policy and project design can better reflect the needs, experiences, and perspectives of affected communities.\nThrough this work, I bring together technical training, policy analysis, and community-centered thinking. I am especially interested in questions that require both analytical rigor and social awareness: how complex systems affect people differently, how institutions build trust, and how decision processes can become more inclusive and equitable.\nAs a first-generation student, I care deeply about expanding opportunity, elevating underrepresented voices, and producing work that has relevance beyond academia. My path into research was shaped in part by the McNair Scholars Program, which introduced me to scholarship as a tool for both inquiry and impact.\nI am also the creator of Camino2PhD, a personal platform where I share the story of my journey toward the Ph.D. — how I got here, what I have learned, and what I still hope to accomplish. Through reflections on graduate school, mentorship, life abroad, and belonging in higher education, I hope to make the path feel more visible and more possible for others, especially first-generation students and those from underrepresented communities.\nWhether through research, writing, or collaboration, I am motivated by work that helps organizations and institutions make better, more inclusive decisions. I’m especially interested in contributing to projects related to infrastructure, energy, policy, public engagement, and equity."
+    "objectID": "Publications.html#policy-briefs",
+    "href": "Publications.html#policy-briefs",
+    "title": "Publications",
+    "section": "Policy Briefs",
+    "text": "Policy Briefs\n\n\n\n\n\n\nNoteDo Renewables Really Raise Electricity Prices? What the Data Shows\n\n\n\nPolicy breif examining the relationship between renewable energy adoption and electricity prices using 25 years of U.S. data (2000-2024). Analysis finds no consistent correlation between renewable generation and price increases, challenging common assumptions about renewable energy costs.\nRead the article\n\n\n\n\n\n\n\n\nNoteLIHEAP at a Crossroads: What’s Next for Federal Energy Assistance to Low-Income Households?\n\n\n\nPolicy brief examining the debate over LIHEAP (Low Income Home Energy Assistance Program) and the federal government’s role in helping low-income households pay energy bills. Explores arguments on both sides and what’s at stake.\nRead the article"
   },
   {
     "objectID": "Camino2PhD.html",
@@ -40,5 +40,33 @@
     "title": "Camino2PhD",
     "section": "Youtube",
     "text": "Youtube"
+  },
+  {
+    "objectID": "aboutme.html",
+    "href": "aboutme.html",
+    "title": "About Me",
+    "section": "",
+    "text": "I am a doctoral researcher in the dual-degree Carnegie Mellon Portugal Program in Engineering and Public Policy at Carnegie Mellon University and the Faculdade de Engenharia da Universidade do Porto. I hold a B.S. in Chemical Engineering from Texas A&M University-Kingsville.\nMy work sits at the intersection of infrastructure, equity, and public policy. I study how communities perceive justice in the context of large infrastructure projects, with a particular focus on public engagement, decision-making, and energy policy. My research explores how policy and project design can better reflect the needs, experiences, and perspectives of affected communities.\nThrough this work, I bring together technical training, policy analysis, and community-centered thinking. I am especially interested in questions that require both analytical rigor and social awareness: how complex systems affect people differently, how institutions build trust, and how decision processes can become more inclusive and equitable.\nAs a first-generation student, I care deeply about expanding opportunity, elevating underrepresented voices, and producing work that has relevance beyond academia. My path into research was shaped in part by the McNair Scholars Program, which introduced me to scholarship as a tool for both inquiry and impact.\nI am also the creator of Camino2PhD, a personal platform where I share the story of my journey toward the Ph.D. — how I got here, what I have learned, and what I still hope to accomplish. Through reflections on graduate school, mentorship, life abroad, and belonging in higher education, I hope to make the path feel more visible and more possible for others, especially first-generation students and those from underrepresented communities.\nWhether through research, writing, or collaboration, I am motivated by work that helps organizations and institutions make better, more inclusive decisions. I’m especially interested in contributing to projects related to infrastructure, energy, policy, public engagement, and equity."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Brissa Acevedo",
+    "section": "",
+    "text": "PhD Candidate in Engineering and Public Policy\nCMU-Portugal | Dual degree Ph.D. program\n📍Carnegie Mellon University 🇺🇸 & Faculdade de Engenharia da Universidade do Porto 🇵🇹"
+  },
+  {
+    "objectID": "index.html#focus-areas",
+    "href": "index.html#focus-areas",
+    "title": "Brissa Acevedo",
+    "section": "Focus Areas",
+    "text": "Focus Areas\nInfrastructure, equity, public policy, public engagement, and energy policy"
+  },
+  {
+    "objectID": "index.html#education",
+    "href": "index.html#education",
+    "title": "Brissa Acevedo",
+    "section": "Education",
+    "text": "Education\nMS, Engineering and Public Policy, Carnegie Mellon University | 2024\nBS, Chemical Engineering, Texas A&M University-Kingsville | 2023"
   }
 ]
