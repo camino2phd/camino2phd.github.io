@@ -3,6 +3,7 @@ title: "Brissa Acevedo"
 about:
   template: jolla
   image: images/hs2.png
+  image-shape: round
   links:
     - icon: github
       text: Github

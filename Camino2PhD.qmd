@@ -1,0 +1,35 @@
+---
+title: "Camino2PhD"
+about:
+  template: solana
+  image: images/logo.png
+  image-shape: rectangle
+  image-width: 10em
+  links:
+    - icon: linktree
+      text: LinkTree
+      href: https://linktr.ee/Camino2PhD
+    - icon: substack
+      text: Substack
+      href: https://tr.ee/Ps9I_0sf-m
+---
+
+*Camino2PhD* is my personal platform for sharing the journey behind the degree — how I got here, what I’ve learned, and what I still hope to accomplish.
+
+Through this space, I write about navigating higher education as a first-generation student, a woman in engineering, and someone learning to take up space in rooms that were not always built for us. I share reflections on graduate school, mentorship, life abroad, resilience, and the lessons I wish I had known earlier.
+
+Camino2PhD is both personal and practical. It is a space for honest storytelling, encouragement, and occasional resources for students who are trying to find their way through college, graduate school, and beyond. More than anything, I hope it reminds others that higher education is possible and that they do not have to walk the path alone.
+
+
+## Substack
+
+<!-- Feed embed code -->
+<div data-supascribe-embed-id="435215772822" data-supascribe-feed></div>
+
+
+<!-- Supascribe Script -->
+<script src="https://js.supascribe.com/v1/loader/5eSNDWaMtnfdBW9qYVjn47yeH1h1.js" async></script>
+
+## Youtube 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VgarF0uKlmU?si=ztjtlg8IzfcnFGsS" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

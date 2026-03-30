@@ -3,6 +3,8 @@ title: "About Me"
 about:
   template: broadside
   image: images/17.jpg
+  image-shape: rectangle
+  image-width: 10em
 ---
 
 I am a doctoral researcher in the dual-degree Carnegie Mellon Portugal Program in Engineering and Public Policy at Carnegie Mellon University and the Faculdade de Engenharia da Universidade do Porto. I hold a B.S. in Chemical Engineering from Texas A&M University-Kingsville.
