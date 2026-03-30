@@ -4,6 +4,8 @@ project:
 
 website:
   title: "Brissa Acevedo"
+  page-footer:
+    center: "© 2026 Brissa Acevedo @Camino2PhD"
   navbar:
     left:
       - href: index.qmd
@@ -12,6 +14,7 @@ website:
       - href: aboutme.qmd
       - href: Camino2PhD.qmd
       - href: Publications.qmd
+      
       
 format:
   html:
