@@ -11,6 +11,7 @@ website:
         icon: house-door-fill
       - href: aboutme.qmd
       - href: Camino2PhD.qmd
+      - href: Publications.qmd
       
 format:
   html:
