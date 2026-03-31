@@ -4,9 +4,10 @@ format: html
 ---
 ## Selected Work
 
-**Brissa Acevedo**, Baruch Fischhoff, and Lia Patrício. *Community preferences in energy justice: Perspectives on solar farm projects.* Accepted for publication in **Energy Research & Social Science**.
+**Acevedo, Brissa**, Fischhoff, Baruch, & Patrício, Lia. (2026) "Community preferences in energy justice: Perspectives on solar farm projects" *Energy Research & Social Science*.
 
-
+[DOI](https://doi.org/10.1016/j.erss.2026.104667){.btn .btn-outline-primary target="_blank"}
+[Paper](papers/1-s2.0-S2214629626001386-main.pdf){.btn .btn-primary target="_blank"}
 
 ## Policy Briefs
 ::: {.callout-note}
