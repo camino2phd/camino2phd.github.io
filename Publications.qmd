@@ -25,3 +25,11 @@ Policy brief examining the debate over LIHEAP (Low Income Home Energy Assistance
 
 [Read the article](https://ace-usa.org/blog/research/research-environmental-policy/liheap-at-a-crossroads-whats-next-for-federal-energy-assistance-to-low-income-households/){target="_blank"}
 :::
+
+::: {.callout-note}
+### The Debate On Data Center Development: Costs, Benefits, and Community Responses
+
+Policy brief examining the debate over data center siting decisions, examining key arguments for each, allowing the reader to evaluate competing claims when this issue arises in local and state policy discussions.
+
+[Read the article](https://ace-usa.org/blog/research/research-environmental-policy/the-debate-on-data-center-development-costs-benefits-and-community-responses/){target="_blank"}
+:::
